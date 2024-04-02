@@ -1,1 +1,6 @@
 arrays are set of datastructures. vamsi and sridhar were both are brothers.
+INT
+CHAR
+FLOAT
+DOUBLE
+STRING
